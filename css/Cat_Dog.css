@@ -1,0 +1,36 @@
+body{
+  background-image: url(http://blogs.thegospelcoalition.org/kevindeyoung/files/2014/08/Cat_and_Dog-1024x899.jpg);
+  background-size: cover;
+}
+
+h1{
+  text-align: center;
+  font-family: fantasy;
+  font-size: 60px;
+  color: orange;
+}
+
+h3{
+  text-align: center;
+  font-size: 30px;
+  font-family: fantasy;
+  color: #cc6600;
+}
+
+p{
+  text-align: center;
+  font-family: fantasy;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.container{
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: fantasy;
+}
+
+ul{
+  list-style-type: none;
+}
